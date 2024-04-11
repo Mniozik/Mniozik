@@ -1,9 +1,14 @@
 <h1 align="left"> Hello! 👋 <img align ="right"  src="https://komarev.com/ghpvc/?username=mniozik&label=Profile%20views&color=008000&style=flat-square" alt="views-counter"> </h1>
 
-- 🔭 I’m currently working on project: **A teacher's web app assistant with its private system and database, designed for educational purposes for students. System should be relocatability by using containerization.**
+* 🔭 I’m currently working on project: **A teacher's web app assistant with its private system and database, designed for educational purposes for students. System should be relocatability by using containerization.**
+    * **`Tools`**: 
+        * Docker
+        * MySQL / MongoDB
+        * Node.js + Express
+        * JavaScript
+        * HTML / CSS 
+    
+* 🌱 I’m currently educating in **Microsoft Azure, Docker, JavaScript**.
 
-- 🌱 I’m currently educating in **Microsoft Azure, Docker, JavaScript**.
-
-- 📬 Contact me by adding on **Discord** 👈 `mniozik`. 
-
+* 📬 Contact me by adding on **Discord** 👈 `mniozik`. 
 

@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on project: **A teacher's web app assistant with its private system and database, designed for educational purposes for students. System should be relocatability by using containerization.**
 
-- 🌱 I’m currently educating in **Microsoft Azure, Docker**
+- 🌱 I’m currently educating in **Microsoft Azure, Docker, JavaScript.
 
-- 📬 Contact me by adding on **Discord** 👈 `mniozik` 
+- 📬 Contact me by adding on **Discord** 👈 `mniozik`. 
 
 

@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently educating in **Microsoft Azure, Docker**
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mniozik" height="30" width="25"> Contact with me via **Discord**  👈 `mniozik` 
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mniozik" height="30" width="25"> Contact with me via **Discord** 👈 `mniozik` 
 
 

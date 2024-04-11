@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently educating in **Microsoft Azure, Docker**
 
-- 📬 Contact via adding me on **Discord** 👈 `mniozik` 
+- 📬 Contact me by adding on **Discord** 👈 `mniozik` 
 
 

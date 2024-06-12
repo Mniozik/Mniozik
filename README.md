@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on project: **A teacher's web app assistant with its private system and database, designed for educational purposes for students. System should be relocatability by using containerization.**
     * **`Project tools`**: 
         * Docker
-        * MySQL / MongoDB
+        * MongoDB + GridFS
         * Node.js + Express
         * JavaScript
         * HTML / CSS 

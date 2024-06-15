@@ -8,7 +8,7 @@
         * JavaScript
         * HTML / CSS 
     
-* 🌱 I’m currently educating in **Microsoft Azure, Docker, JavaScript**.
+* 🌱 I’m currently educating in **Docker, JavaScript**.
 
 * 📬 Contact me by adding on **Discord** 👈 `mniozik`. 
 
